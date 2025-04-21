@@ -16,19 +16,19 @@
   ],
   "author": "RyyAlpha",
   "license": "MIT",
-   "dependencies": {
-    "Xylays-BL-Core": "github:ryygantenk/Xylays-BL-Core",
+  "dependencies": {
+    "@octokit/rest": "latest",
     "axios": "^1.6.0",
     "body-parser": "^1.20.3",
-    "fs": "latest",
     "chalk": "^4.1.2",
-    "js-confuser": "^1.7.3",
-    "pino": "^9.5.0",
-    "javascript-obfuscator": "^4.0.0",
-    "@octokit/rest": "latest",
-    "readline-sync": "^1.4.10",
-    "node-telegram-bot-api": "^0.66.0",
     "crypto": "latest",
-    "moment-timezone": "latest"
+    "fs": "latest",
+    "javascript-obfuscator": "^4.0.0",
+    "js-confuser": "^1.7.3",
+    "moment-timezone": "latest",
+    "node-telegram-bot-api": "^0.66.0",
+    "pino": "^9.5.0",
+    "readline-sync": "^1.4.10",
+    "Xylays-BL-Core": "github:ryygantenk/Xylays-BL-Core"
   }
 }
